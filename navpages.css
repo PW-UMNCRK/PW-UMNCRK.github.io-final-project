@@ -11,14 +11,14 @@ img {
 img:hover {
     opacity: 0.5;
 }
-h4 {
+a {
     position: relative;
     display: inline-block;
     font-size: 18px;
     color: rgb(80 105 141);
     text-align: center;
 }
-h4:hover {
+a:hover {
     color: rgb(125 159 192);
 }
 .main {
