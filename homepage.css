@@ -1,6 +1,6 @@
 /* Colors: */
 body {
-    background-color: #fffaf9;
+    background-color: rgb(233, 208, 245);
     font-family: "Times New Roman", Times, serif;
 }
 .button {
@@ -18,4 +18,9 @@ body {
 }
 .button:hover {
     color: rgb(78 122 177)
+}
+h1 {
+    text-align: center;
+    font-size: 30pt;
+    padding: 25px;
 }
