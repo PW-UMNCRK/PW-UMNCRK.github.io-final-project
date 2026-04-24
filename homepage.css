@@ -1,0 +1,21 @@
+/* Colors: */
+body {
+    background-color: #fffaf9;
+    font-family: "Times New Roman", Times, serif;
+}
+.button {
+    display: inline-block;
+    color: white;
+    background-color: rgb(125 159 192);
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px solid rgb(103, 103, 147);
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 80px;
+    margin-right: 40px;
+}
+.button:hover {
+    color: rgb(78 122 177)
+}

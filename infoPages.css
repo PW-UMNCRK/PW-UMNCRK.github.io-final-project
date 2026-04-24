@@ -1,0 +1,45 @@
+/* Center h1, h3 */
+/* Float Images left of headers? */
+/* Colors: */
+
+body {
+    background-color: #fffaf9;
+    font-family: "Times New Roman", Times, serif;
+}
+h3 {
+    position: relative;
+    float: left;
+    margin-right: 18px;
+    text-align: center;
+    font-size: 22pt;
+    color: #c2a8c9;
+    padding: 100px;
+    margin-left: 250px;
+}
+nav {
+    background-color:rgb(129, 154, 189);
+    color: rgb(80 105 141);
+}
+a:hover {
+    color: rgb(125 159 192);
+}
+img {
+    position: relative;
+    width: 500px;
+    height: 300px;
+    margin-left: 100px;
+}
+div {
+    padding: 40px;
+    background-color: rgb(80 105 141);
+    border: 3px solid rgb(80 105 141);
+    border-radius:8px;
+}
+h1 {
+    text-align: center;
+    font-size: 30pt;
+    color: #c2a8c9;
+}
+p {
+    font-size: 13pt;
+}
